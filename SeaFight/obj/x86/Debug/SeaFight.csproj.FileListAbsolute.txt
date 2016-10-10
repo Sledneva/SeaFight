@@ -1,0 +1,8 @@
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\bin\Debug\SeaFight.exe
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\bin\Debug\SeaFight.pdb
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\obj\x86\Debug\SeaFight.csprojResolveAssemblyReference.cache
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\obj\x86\Debug\SeaFight.Form1.resources
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\obj\x86\Debug\SeaFight.Properties.Resources.resources
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\obj\x86\Debug\SeaFight.csproj.GenerateResource.Cache
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\obj\x86\Debug\SeaFight.exe
+C:\Users\YaNatashaMne16\Downloads\SeaFight-master (2)\SeaFight-master\SeaFight\obj\x86\Debug\SeaFight.pdb
